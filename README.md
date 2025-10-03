@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el desarrollo de so
 
 ## 🌱 Sobre mí  
 - 🎓 Actualmente curso **8° semestre de Ingeniería de Sistemas**.  
-- 💻 Interesado en **desarrollo web, bases de datos y proyectos de simulación**.  
+- 💻 Interesado en **desarrollo web y bases de datos**.  
 - 🔍 Me gusta aprender nuevas tecnologías y aplicar buenas prácticas en mis proyectos.  
 - 📘 Siempre buscando mejorar mis habilidades en **Python, Django, React, HTML, CSS y JavaScript**.  
 
