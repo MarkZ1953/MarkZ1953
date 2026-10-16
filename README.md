@@ -4,14 +4,6 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el desarrollo de so
 
 ---
 
-## 🚀 Vitaria CV · Mark Systems
-
-[Vitaria CV](https://vitariacv.com/) es una aplicación de Mark Systems para crear y editar hojas de vida, elegir plantillas y descargarlas en PDF.
-
-[Crear mi hoja de vida con Vitaria CV](https://vitariacv.com/)
-
----
-
 ## 🌱 Sobre mí  
 - 🎓 Actualmente curso **8° semestre de Ingeniería de Sistemas**.  
 - 💻 Interesado en **desarrollo web y bases de datos**.  
